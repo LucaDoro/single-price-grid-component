@@ -180,7 +180,7 @@ body {
 }
 
 
-@media screen and (width >= 600px) {
+@media screen and (width >= 840px) {
   .product {
     display: grid;
     margin: auto;
